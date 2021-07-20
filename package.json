@@ -1,0 +1,23 @@
+{
+  "name": "Array-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnezhanaM/Array-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnezhanaM/Array-converter/issues"
+  },
+  "homepage": "https://github.com/SnezhanaM/Array-converter#readme",
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  }
+}
